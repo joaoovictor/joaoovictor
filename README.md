@@ -1,8 +1,8 @@
 ### Hi there! I am João Victor 👋
 ##
-- 🌱 Learning Java and Dart/Flutter
+- 🌱 Learning Dart/Flutter
 - 🌍 I’m from Brazil
-- ⚡ Fun fact: I love Star Wars and Call Of Duty
+- ⚡ Fun fact: I love Star Wars
 
  <div>
   <a href="https://github.com/joaoovictor">
