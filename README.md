@@ -1,6 +1,6 @@
 ### Hi there! I am João Victor 👋
 ##
-- 🌱 Learning Dart/Flutter
+- 🌱 Learning Dart/Flutter, Python and Java
 - 🌍 I’m from Brazil
 - ⚡ Fun fact: I love Star Wars
 
